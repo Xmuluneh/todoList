@@ -1,4 +1,4 @@
-# MERN TODO APP Application
+# MERN TODO List Application
 ## FrontEnd setup
 `npx create-react-app todo-front-end`
 
