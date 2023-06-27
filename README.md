@@ -1,6 +1,9 @@
 # MERN TODO APP Application
-## FrontEnd 
+## FrontEnd setup
 `npx create-react-app todo-front-end`
 
 
-## BackEnd 
+## BackEnd setup
+`npm init -y`
+
+`npm install express mongodb`
